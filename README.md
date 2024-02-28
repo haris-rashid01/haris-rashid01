@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haris-rashid01
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning DSA in C language
+- 🌱 I’m currently learning Database Systems in SQL
 - 💞️ I’m looking to collaborate on coding
 - 📫 You can reach me on Instagram _harisrashid 
 
